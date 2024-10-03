@@ -92,7 +92,7 @@ pip install -r requirements.txt
 
 | Name                                                                                        |  Email              
 |---------------------------------------------------------------------------------------------|--------------------             
-| [Jana Liebenberg-Fouche](https://github.com/Jana-Liebenberg)                                | jliebenberg-fouche@sandtech.com
+| [Jana Liebenberg-Fouche](https://github.com/Jana-Liebenberg)                                | jerry.maleka@fnb.co.za
 | [Edmund Dotsey](https://github.com/Edotsey)                                                 | edotsey@sandtech.com
 | [Farayi Myambo](https://github.com/Farayi-Explore)                                          | fmyambo@sandtech.com
 
